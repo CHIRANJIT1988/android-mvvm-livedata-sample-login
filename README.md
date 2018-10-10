@@ -1,1 +1,1 @@
-# android-mvvm-livedata-sample-login
+# Android MVVM LiveData Sample Login
